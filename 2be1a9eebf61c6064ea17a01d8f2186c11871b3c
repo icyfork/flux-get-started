@@ -1,0 +1,1 @@
+{"jobID":"c3a6b3c1-f2b7-f52f-d0f0-629c5c2ba775","spec":{"type":"policy","cause":{"Message":"locking","User":""},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true"},"remove":{}}}},"result":null}
